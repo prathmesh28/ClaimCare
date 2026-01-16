@@ -146,6 +146,7 @@ const styles = StyleSheet.create({
   },
   dateColumn: {
     flex: 1.5,
+    paddingHorizontal: 6
   },
   amountColumn: {
     flex: 1,
